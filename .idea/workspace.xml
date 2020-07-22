@@ -3,23 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="8fe04d7a-e795-444c-aab5-430779141441" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/myproject-rest-assured.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myproject-rest-assured.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/src/main/java/com/example/myproject/myprojectrestassured/MyprojectRestAssuredApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject-rest-assured/src/test/java/com/example/myproject/myprojectrestassured/MyprojectRestAssuredApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +30,45 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestCreateUser.testCreateUser">
+    <configuration name="TestCreateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myproject-rest-assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.myproject.myprojectrestassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.myproject.myprojectrestassured" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myproject.myprojectrestassured.TestCreateUser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCreateUser.testCreateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myproject-rest-assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.myproject.myprojectrestassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.myproject.myprojectrestassured" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myproject.myprojectrestassured.TestCreateUser" />
+      <option name="METHOD_NAME" value="testCreateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCreateUser.testCreateUser" />
+        <item itemvalue="JUnit.TestCreateUser" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,9 +96,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="468" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1593466242438">
+    <state x="2174" y="468" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595453536806">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2174" y="468" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1595453536806" />
+    <state width="1877" height="421" key="GridCell.Tab.0.bottom" timestamp="1595457494697">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="421" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1595457494697" />
+    <state width="1877" height="421" key="GridCell.Tab.0.center" timestamp="1595457494697">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="421" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1595457494697" />
+    <state width="1877" height="421" key="GridCell.Tab.0.left" timestamp="1595457494696">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="421" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1595457494696" />
+    <state width="1877" height="421" key="GridCell.Tab.0.right" timestamp="1595457494697">
+      <screen x="1366" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="421" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1595457494697" />
+    <state x="468" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1595365317941">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="468" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1593466242438" />
+    <state x="468" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1160@1366.0.1920.1160" timestamp="1595365317941" />
   </component>
 </project>
